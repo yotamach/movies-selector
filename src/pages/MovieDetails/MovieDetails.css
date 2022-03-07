@@ -1,0 +1,10 @@
+.movie-title{
+    width: 100%;
+    text-align: center;
+}
+
+.movie-section{
+    width: 50%;
+    float: right;
+    padding: 5px;
+}
